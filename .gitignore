@@ -1,0 +1,32 @@
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# IDEs
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# Logs and environment files
+*.log
+.env
+.env.local
+
+# Build / distribution
+dist/
+build/
+
+# Temporary files
+*.tmp
+~$*
+
+# Node
+node_modules/
